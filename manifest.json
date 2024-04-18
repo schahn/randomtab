@@ -32,7 +32,7 @@
 
 	"browser_specific_settings": {
 		"gecko": {
-			"id": "ext-random-tab@blueslugs.com",
+			"id": "{58bbfc18-9e8a-4c21-89e0-74a14dc200ff}",
 			"strict_min_version": "42.0"
 		}
 	}
